@@ -1,0 +1,95 @@
+﻿@model AddsSystem.Models.ViewModels.ProfileInfoVM
+
+@{
+    ViewBag.Title = "User Profile";
+}
+
+    <br /> <br />
+    <table border="0" cellspacing="40" cellpadding="40">
+    <tr>
+        <td>
+            <img src="@Url.Action("UserPhotos", "Account")" style="width:170px;height:170px; background: #FFFFFF;
+                margin: auto; -moz-border-radius: 80px; border-radius: 100px; padding: 6px; box-shadow: 0px 0px 20px #888;" />
+            <br />
+        </td>
+
+        <td>
+            <div class="editor-label">
+                @Html.LabelFor(Model => Model.UserInfo.FirstName)
+            </div>
+            <div class="editor-field">
+                @Html.DisplayFor(Model => Model.UserInfo.FirstName)
+            </div>
+
+            <br />
+
+            <div class="editor-label">
+                @Html.LabelFor(Model => Model.UserInfo.LastName)
+            </div>
+            <div class="editor-field">
+                @Html.DisplayFor(Model => Model.UserInfo.LastName)
+            </div>
+
+            <br />
+
+            <div class="editor-label">
+                @Html.LabelFor(Model => Model.UserInfo.UserName)
+            </div>
+            <div class="editor-field">
+                @Html.DisplayFor(Model => Model.UserInfo.UserName)
+            </div>
+        </td>
+
+        <td>
+            <div class="editor-label" style="text-align: center; margin-bottom: 10px;">
+                @Html.LabelFor(Model => Model.UserInfo.UserInfo)
+            </div>
+
+            <div style="width:450px; background: #FFFFFF; color: #626366;
+                border-radius: 12px; padding: 11px 0 10px 22px; box-shadow: 0px 0px 20px #888;">
+
+                @Html.DisplayTextFor(Model => Model.UserInfo.UserInfo)
+            </div>
+        </td>
+    </tr>
+    </table>
+    @foreach (var m in Model.AllUserPosts)
+    {
+    <h2>
+        @m.Title
+    </h2>
+
+        <h3>
+            @(m.Info.Length > 30 ? m.Info.Substring(0, 30) + "..." : m.Info)
+        </h3>
+
+        <div id="timeDisplayLoading" style="display: none">Loading ...</div>
+
+        <div id="add-content@(+m.UserPostId)"></div>
+
+        @Ajax.ActionLink("See more", "ContentById", "Profile", new { id = m.UserPostId },
+            new AjaxOptions
+            {
+                HttpMethod = "GET",
+                InsertionMode = InsertionMode.Replace,
+                UpdateTargetId = "add-content" + m.UserPostId,
+                LoadingElementId = "timeDisplayLoading" + m.UserPostId,
+                OnComplete = "ajaxClose2",  // do JS before the page is uploaded
+                OnSuccess = "ajaxClose",  // do JS after the page is successfully uploaded
+                OnFailure = "alertMessage"
+            }, new { id = "ajax-button" + m.UserPostId })
+
+        <br />
+
+        <script>
+            function ajaxClose() {
+                $("#ajax-button").hide();
+            }
+            function ajaxClose2() {
+                $(this).hide();
+            }
+            function alertMessage() {
+                $("There is something wrong")
+            }
+        </script>
+    }

@@ -1,0 +1,68 @@
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\csc.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\csc.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\csi.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\csi.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.AppContext.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\vbc.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\vbc.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\AddsSystem.Common.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\AddsSystem.Common.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\obj\Debug\AddsSystem.Common.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\obj\Debug\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Common\obj\Debug\AddsSystem.Common.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\csc.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\csc.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\csi.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\csi.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.AppContext.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\vbc.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\vbc.rsp
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\AddsSystem.Common.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\AddsSystem.Common.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\obj\Debug\AddsSystem.Common.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\obj\Debug\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Common\obj\Debug\AddsSystem.Common.pdb

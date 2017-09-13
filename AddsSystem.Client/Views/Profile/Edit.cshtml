@@ -1,0 +1,88 @@
+﻿@model AddsSystem.Models.ViewModels.EditByIdVM
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@using (Html.BeginForm("Edit", "Profile", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>You want to change somethink </legend>
+
+        @Html.HiddenFor(model => model.UserPostId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Title)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Title)
+            @Html.ValidationMessageFor(model => model.Title)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Info)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Info)
+            @Html.ValidationMessageFor(model => model.Info)
+        </div>
+        <div class="editor-label">
+            <label>Files:</label>
+        </div>
+        <div class="editor-field">
+
+
+            <div class="attachment">
+                @foreach (var item in Model.PostImages)
+                {
+                    <div class="li">
+                        <a class="title" href="/Profile/DownLoad/?p=@(item.Id + item.Extension)&d=@item.FileName">@item.FileName</a><br>
+                        <img src="/Profile/DownLoad/?p=@(item.Id + item.Extension)&d=@item.FileName" width="320" height="200">
+                        <a href="javascript:void(0);" data-id="@item.Id" class="deleteItem">Delete</a> <br><br>
+                    </div>
+                }
+            </div>
+        </div>
+        <input type="file" name="file" multiple="multiple"/>
+        <p>
+            <input type="submit" value="Save"/>
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to your profile", "Index",  "Profile")
+</div>
+
+
+@section Scripts {
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+
+        $('.deleteItem').click(function (e) {
+            e.preventDefault();
+            var $ctrl = $(this);
+            if (confirm('Do you really want to delete this image ?')) {
+                $.ajax({
+                    url: '@Url.Action("DeleteFile")',
+                    type: 'POST',
+                    data: { id: $(this).data('id') }
+                }).done(function (data) {
+                    if (data.Result == "OK") {
+                        $ctrl.closest('.li').remove();
+                    }
+                    else if (data.Result.Message) {
+                        alert(data.Result.Message);
+                    }
+                }).fail(function () {
+                    alert("There is something wrong. Please try again.");
+                })
+
+            }
+        });
+    </script>
+}

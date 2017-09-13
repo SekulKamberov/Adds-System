@@ -1,0 +1,47 @@
+﻿@model AddsSystem.Models.ViewModels.AllProfilesVM
+
+<div style="background-color:#e6f2ff;">
+    <div class="Add">
+        <div>
+            <strong>
+                @Model.UserPostId
+            </strong>
+
+        </div>
+        <div>
+            <strong>
+                @Model.Title
+            </strong>
+        </div>
+        <div>
+            <strong>
+                @Model.Info
+            </strong>
+        </div>
+    </div>
+    <br />
+    <table class="Add">
+        <tr>
+            @foreach (var p in Model.PostImages)
+            {
+                <td>
+                    <img src="/Profile/DownLoad/?p=@(p.Id + p.Extension)&d=@p.FileName" width="185" height="120">
+                </td>
+            }
+            @{
+                string verify = Model.UserId == @ViewBag.MyUserId ? "visible" : "hidden";
+            }
+
+                <td class="@verify">
+                    @Html.ActionLink("Edit", "Edit", "Profile", new { id = Model.UserPostId }, null) 
+                </td>
+                <td class="@verify">
+                    @Html.ActionLink("Delete", "Delete", "Profile", new { id = Model.UserPostId }, null)
+                </td>
+</tr>
+    </table>
+    <br />
+</div>
+    @section scripts {
+        @Scripts.Render("~/bundles/jqueryajax")
+    }

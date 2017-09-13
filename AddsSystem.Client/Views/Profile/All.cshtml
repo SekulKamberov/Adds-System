@@ -1,0 +1,63 @@
+﻿@model IEnumerable<AddsSystem.Models.ViewModels.AllProfilesVM>
+
+@{
+    ViewBag.Title = "All ads";
+}
+<h1>All ads from all users:</h1>
+@foreach (var s in Model)
+{
+    <table border="0" cellspacing="10" cellpadding="10">
+        <tr>
+            <td>
+                <div class="editor-field">
+                    @(s.Title.Length > 15 ? s.Title.Substring(0, 15) + "..." : s.Title)
+                </div>
+
+                <div class="editor-field">
+                    @(s.Info.Length > 25 ? s.Info.Substring(0, 25) + "..." : s.Info)
+                </div>
+         </tr>
+
+         <tr>
+            <td>
+                @foreach (var n in s.PostImages)
+                {
+                    <a href="@Url.Action("ContentId", "Profile", new { id = s.UserPostId })">
+                        <img src="/Profile/DownLoad/?p=@(n.Id + n.Extension)&d=@n.FileName" width="110" height="60">
+                    </a>
+                }
+            </td>
+        </tr>
+    </table>
+    <br />
+    <div id="timeDisplayLoading" style="display: none">Loading ...</div>
+
+    <div id="add-content@(+s.UserPostId)"></div>
+
+    @Ajax.ActionLink("See more", "ContentId", "Profile", new { id = s.UserPostId },
+    new AjaxOptions
+    {
+        HttpMethod = "GET",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "add-content" + s.UserPostId,
+        LoadingElementId = "timeDisplayLoading" + s.UserPostId,
+        OnComplete = "ajaxClose2",  // do JS before the page is uploaded
+        OnSuccess = "ajaxClose",  // do JS after the page is successfully uploaded
+        OnFailure = "alertMessage"
+    }, new { id = "ajax-button" + s.UserPostId })
+
+    <br />
+    <br />
+    <br />
+    <script>
+        function ajaxClose() {
+            $("#ajax-button").hide();
+        }
+        function ajaxClose2() {
+            $(this).hide();
+        }
+        function alertMessage() {
+            $("There is something wrong")
+        }
+    </script>
+}

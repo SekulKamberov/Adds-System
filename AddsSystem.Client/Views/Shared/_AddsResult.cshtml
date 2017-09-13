@@ -1,0 +1,42 @@
+﻿@model AddsSystem.Models.ViewModels.ContentIdVM
+    <div class="Add">
+        <div>
+            <strong>
+                @Model.UserPostId
+            </strong>
+        </div>
+        <div>
+            <strong>
+                @Model.Title
+            </strong>
+        </div>
+        <div>
+            <strong>
+                @Model.Info
+            </strong>
+        </div>
+    </div>
+    <br />
+    <table class="Add">
+        <tr>
+            @foreach (var p in Model.PostImages)
+            {
+                <td>
+                    <img src="/Profile/DownLoad/?p=@(p.Id + p.Extension)&d=@p.FileName" width="150" height="85">
+                </td>
+            }
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Profile", new { id = Model.UserPostId }, null) 
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", "Profile", new { id = Model.UserPostId }, null)
+            </td>
+        </tr>
+    </table>
+    <br />
+
+
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryajax")
+}

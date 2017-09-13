@@ -1,0 +1,234 @@
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\obj\Debug\AddsSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AutoMapper.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.DAL.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Models.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\AutoMapper.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\obj\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\obj\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\WebActivatorEx.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AutoMapper.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\WebActivatorEx.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.DAL.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Models.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\AutoMapper.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\obj\Debug\AddsSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\obj\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017\AddsSystem.Services\obj\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AutoMapper.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\WebActivatorEx.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.DAL.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Models.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AutoMapper.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\obj\Debug\AddsSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\obj\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\obj\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Common.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_Prod_12_09_2017 - Copy\AddsSystem.Services\bin\Debug\AddsSystem.Common.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Services.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AutoMapper.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Owin.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\WebActivatorEx.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Common.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Common.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.DAL.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.DAL.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Models.pdb
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AddsSystem.Models.dll.config
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\AutoMapper.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Extensions.Conventions.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\obj\Debug\AddsSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\obj\Debug\AddsSystem.Services.dll
+C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Services\obj\Debug\AddsSystem.Services.pdb
