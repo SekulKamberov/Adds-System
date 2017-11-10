@@ -1,5 +1,6 @@
 ﻿namespace AddsSystem.Client.Controllers
 {
+    using System;
     using System.Web.Mvc;
     using System.IO;
     using System.Linq;
@@ -50,6 +51,7 @@
             return PartialView(Partials.ContentAdId, content);
         }
 
+        [HttpGet]
         [Authorize]
         public ActionResult Create()
         {
@@ -60,6 +62,10 @@
         [ValidateAntiForgeryToken]
         public ActionResult Create(UserPost UserPost)
         {
+            if (UserPost == null)
+            {
+                throw new ArgumentNullException("It's need all info about user post");
+            }
             var filesRequest = Request;
             var server = Server;
             string userid = User.Identity.GetUserId();

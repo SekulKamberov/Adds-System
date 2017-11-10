@@ -10,7 +10,7 @@
     using AddsSystem.DAL;
     using AddsSystem.Common.Constants;
 
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         public ActionResult Index()
         {
@@ -31,40 +31,40 @@
             return View();
         }
 
-        public FileContentResult UserPhotos()
-        {
-            if (User.Identity.IsAuthenticated)
-            {
-                String userId = User.Identity.GetUserId();
-                if (userId == null)
-                {
-                    string fileName = HttpContext.Server.MapPath(@Infrastructure.NoImagePath);
+        //public FileContentResult UserPhotos()
+        //{
+        //    if (User.Identity.IsAuthenticated)
+        //    {
+        //        String userId = User.Identity.GetUserId();
+        //        if (userId == null)
+        //        {
+        //            string fileName = HttpContext.Server.MapPath(@Infrastructure.NoImagePath);
 
-                    byte[] imageData = null;
-                    FileInfo fileInfo = new FileInfo(fileName);
-                    long imageFileLength = fileInfo.Length;
-                    FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
-                    BinaryReader br = new BinaryReader(fs);
-                    imageData = br.ReadBytes((int)imageFileLength);
-                    return File(imageData, Infrastructure.ProfileImagePath);
-                }
-                // to get the user details to load user Image
-                var bdUsers = HttpContext.GetOwinContext().Get<AddsSystemDbContext>();
-                var userImage = bdUsers.Users.Where(x => x.Id == userId).FirstOrDefault();
+        //            byte[] imageData = null;
+        //            FileInfo fileInfo = new FileInfo(fileName);
+        //            long imageFileLength = fileInfo.Length;
+        //            FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+        //            BinaryReader br = new BinaryReader(fs);
+        //            imageData = br.ReadBytes((int)imageFileLength);
+        //            return File(imageData, Infrastructure.ProfileImagePath);
+        //        }
+        //        // to get the user details to load user Image
+        //        var bdUsers = HttpContext.GetOwinContext().Get<AddsSystemDbContext>();
+        //        var userImage = bdUsers.Users.Where(x => x.Id == userId).FirstOrDefault();
 
-                return new FileContentResult(userImage.UserPhoto, Infrastructure.ProfileImagePath);
-            }
-            else
-            {
-                string fileName = HttpContext.Server.MapPath(@Infrastructure.NoImagePath);
-                byte[] imageData = null;
-                FileInfo fileInfo = new FileInfo(fileName);
-                long imageFileLength = fileInfo.Length;
-                FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
-                BinaryReader br = new BinaryReader(fs);
-                imageData = br.ReadBytes((int)imageFileLength);
-                return File(imageData, Infrastructure.ProfileImagePath);
-            }
-        }
+        //        return new FileContentResult(userImage.UserPhoto, Infrastructure.ProfileImagePath);
+        //    }
+        //    else
+        //    {
+        //        string fileName = HttpContext.Server.MapPath(@Infrastructure.NoImagePath);
+        //        byte[] imageData = null;
+        //        FileInfo fileInfo = new FileInfo(fileName);
+        //        long imageFileLength = fileInfo.Length;
+        //        FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+        //        BinaryReader br = new BinaryReader(fs);
+        //        imageData = br.ReadBytes((int)imageFileLength);
+        //        return File(imageData, Infrastructure.ProfileImagePath);
+        //    }
+        //}
     }
 }

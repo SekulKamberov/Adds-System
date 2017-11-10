@@ -1,0 +1,190 @@
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\obj\Debug\AddsSystem.Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\ApplicationInsights.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Test.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Test.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Test.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Services.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AutoMapper.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Castle.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Moq.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Telerik.JustMock.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Client.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Common.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Common.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Services.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AddsSystem.Services.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\AutoMapper.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Moq.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Moq.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Telerik.JustMock.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\obj\Debug\AddsSystem.Test.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\obj\Debug\AddsSystem.Test.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Test\bin\Debug\TestStack.FluentMVCTesting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\ApplicationInsights.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\csc.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\csc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\csc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\csi.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\csi.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.AppContext.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\vbc.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\vbc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\vbc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Test.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Test.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Test.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Services.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AutoMapper.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Castle.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Moq.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Telerik.JustMock.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\TestStack.FluentMVCTesting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Client.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Common.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Common.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Services.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AddsSystem.Services.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\AutoMapper.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Moq.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Moq.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Telerik.JustMock.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\obj\Debug\AddsSystem.Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\obj\Debug\AddsSystem.Test.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Test\obj\Debug\AddsSystem.Test.pdb

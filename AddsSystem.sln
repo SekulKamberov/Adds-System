@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddsSystem.Models", "AddsSy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddsSystem.Common", "AddsSystem.Common\AddsSystem.Common.csproj", "{C7FD2F04-EB00-4ED3-B398-5E9E2473384A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddsSystem.Test", "AddsSystem.Test\AddsSystem.Test.csproj", "{04ADF582-B289-4CB9-80EF-8B8EA006A4D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C7FD2F04-EB00-4ED3-B398-5E9E2473384A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FD2F04-EB00-4ED3-B398-5E9E2473384A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FD2F04-EB00-4ED3-B398-5E9E2473384A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ADF582-B289-4CB9-80EF-8B8EA006A4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ADF582-B289-4CB9-80EF-8B8EA006A4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ADF582-B289-4CB9-80EF-8B8EA006A4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ADF582-B289-4CB9-80EF-8B8EA006A4D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

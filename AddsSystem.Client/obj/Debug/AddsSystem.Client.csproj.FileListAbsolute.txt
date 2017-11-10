@@ -474,3 +474,245 @@ C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Client\bin\Microso
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Client\obj\Debug\AddsSystem.Client.csprojResolveAssemblyReference.cache
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Client\obj\Debug\AddsSystem.Client.dll
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.Client\obj\Debug\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\ApplicationInsights.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\csc.exe
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\csc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\csc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\csi.exe
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\csi.rsp
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\vbc.exe
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\vbc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\vbc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Client.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Services.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Antlr3.Runtime.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AutoMapper.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Newtonsoft.Json.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Optimization.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\WebGrease.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Common.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Common.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Services.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AddsSystem.Services.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\AutoMapper.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Ninject.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Optimization.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Newtonsoft.Json.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\obj\Debug\AddsSystem.Client.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\obj\Debug\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.Client\obj\Debug\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\csc.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\csc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\csc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\csi.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\csi.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\vbc.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\vbc.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\vbc.rsp
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\ApplicationInsights.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Client.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Client.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Services.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Antlr3.Runtime.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AutoMapper.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.SignalR.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Newtonsoft.Json.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Optimization.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\WebGrease.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Common.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Common.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Services.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AddsSystem.Services.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\AutoMapper.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.SignalR.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Ninject.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Optimization.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Newtonsoft.Json.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\obj\Debug\AddsSystem.Client.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\obj\Debug\AddsSystem.Client.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.Client\obj\Debug\AddsSystem.Client.pdb

@@ -206,3 +206,113 @@ C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.DAL\bin\Debug\Syst
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.csprojResolveAssemblyReference.cache
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.dll
 C:\Users\sekul\Desktop\Refactored\AddsSystem_READY\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\Ninject.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.DAL.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.Models.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Extensions.Conventions.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Web.Common.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Owin.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Helpers.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Mvc.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\WebActivatorEx.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.Models.pdb
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\AddsSystem.Models.dll.config
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Extensions.Conventions.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Web.Common.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\Ninject.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Helpers.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Mvc.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.dll
+\\Mac\Home\Shared\AddsSystem-master\a SignalR Chat\AddsSystem.DAL\obj\Debug\AddsSystem.DAL.pdb

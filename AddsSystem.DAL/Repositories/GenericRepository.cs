@@ -21,7 +21,6 @@
             get { return this.DbSet; }
         }
 
-
         public T GetById(object id)
         {
             return this.DbSet.Find(id);
@@ -72,8 +71,6 @@
 
         public void Add(T entity)
         {
-            //var entry = AttachIfDetached(entity);
-            //entry.State = EntityState.Added;
             var entry = this.Context.Entry(entity);
             if (entry.State != EntityState.Detached)
             {
@@ -87,8 +84,6 @@
 
         public void Update(T entity)
         {
-            //var entry = AttachIfDetached(entity);
-            //entry.State = EntityState.Modified;
             var entry = this.Context.Entry(entity);
             if (entry.State == EntityState.Detached)
             {
@@ -100,8 +95,6 @@
 
         public void Delete(T entity)
         {
-            //var entry = AttachIfDetached(entity);
-            //entry.State = EntityState.Deleted;
             var entry = this.Context.Entry(entity);
             if (entry.State != EntityState.Deleted)
             {
@@ -135,41 +128,6 @@
             return entry;
         }
 
-        //public virtual T Attach(T entity)
-        //{
-        //    return this.Context.Set<T>().Attach(entity);
-        //}
-
-        //public virtual void Detach(T entity)
-        //{
-        //    var entry = this.Context.Entry(entity);
-        //    entry.State = EntityState.Detached;
-        //}
-
-
-        //public static IQueryable<T> Include<T1>(this DbSet<T> DbSet, params Expression<Func<T, object>>[] includes)
-        //    where T1 : class
-        //{
-        //    IQueryable<T> query = null;
-        //    foreach (var include in includes)
-        //    {
-        //        query = DbSet.Include(include);
-        //    }
-
-        //    return query == null ? DbSet : query;
-        //}
-
-
-        //public static IQueryable<T> IncludeMultiple<T1>(this IQueryable<T> query, params Expression<Func<T, object>>[] includes) where T1 : class
-        //{
-        //    if (includes != null)
-        //    {
-        //        query = includes.Aggregate(query, (current, include) => current.Include(include));
-        //    }
-
-        //    return query;
-        //}
-
         public IQueryable<T> Include(params Expression<Func<T, object>>[] includeExpressions)
         {
             IQueryable<T> set = this.All;
@@ -181,10 +139,5 @@
 
             return set;
         }
-
-        //public IQueryable<T> CurrentUser(T Db)
-        //{
-        //    return this.DbSet.Include(x => x.DbSet.);
-        //}
     }
 }

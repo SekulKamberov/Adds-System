@@ -27,12 +27,6 @@
 
         void Delete(object id);
 
-           //IQueryable<T> Include<T1>(IQueryable<T1> DbSet, params Expression<Func<T, object>>[] includes) where T1 : class;
-
-        //IQueryable<T> IncludeMultiple<T1>(this IQueryable<T1> query, params Expression<Func<T, object>>[] includes) where T1 : class;
-
         IQueryable<T> Include(params Expression<Func<T, object>>[] includeExpressions);
-
-        //IEnumerable<T> CurrentUser();
     }
 }

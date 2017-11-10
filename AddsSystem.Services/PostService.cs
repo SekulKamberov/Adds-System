@@ -63,6 +63,10 @@
 
         public void CreateUserPost(UserPost UserPost, string userid, HttpServerUtilityBase server, HttpRequestBase filesRequest)
         {
+            if (string.IsNullOrEmpty(UserPost.UserId) || string.IsNullOrEmpty(UserPost.Title) || UserPost.PostImages == null)
+            {
+                throw new ArgumentNullException("There is a problem with your post. Please try again and write all fileds");
+            }
             List<PostImage> postImages = new List<PostImage>();
             for (int i = 0; i < filesRequest.Files.Count; i++)
             {

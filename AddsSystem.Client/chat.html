@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AddsSystem SignalR Chat</title>
+    <link rel="stylesheet" href="Content/bootstrap.css" />
+    <link rel="stylesheet" href="Content/chat.css" />
+</head>
+<body>
+
+    <div id="myModal" class="modal">
+        <!-- Модал цонтент-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Chat with friends</h2>
+            </div>
+            <div class="modal-body">
+                <h2 id="user-name"> </h2>
+                <ul id="chat-conversation"></ul>
+
+                <input type="text" class="form-control" id="message" /> <br />
+               
+                <div class="btn-mid">
+                    <input type="button" class="form-control" id="send-message" value="Send Text" /><br />
+                    <input type="button" class="form-control" id="send-cat" value="Send random image icon" /><br />
+                </div>
+                
+                <input type="text" class="form-control" id="search-query" /> <br />
+                <input type="button" class="form-control default" id="search-button" value="Title search in YouTube & Send Video" />
+            </div>
+            <div class="modal-footer">
+                <h2>Send Image & video</h2>
+                <p><small>Send your Video with Search Word from Youtube</small></p>
+            </div>   
+        </div><br /><br /><br />
+    </div>
+
+    <script src="Scripts/jquery-3.2.1.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="signalr/hubs"></script>
+    <script src="Scripts/rtcInput.js"></script>
+    <script src="Scripts/rtcOutput.js"></script>
+    <script src="Scripts/popUpChat.js"></script>
+    <script>
+        $('#user-name').html(prompt('Please, write your name to make a test:', ''));
+    </script>  
+</body>
+</html>
