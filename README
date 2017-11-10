@@ -1,8 +1,5 @@
 ASP.NET MVC Entity Framework - Code First,
 <<<<<<< HEAD
 Generic Repository Pattern, Dependancy Injection (IoC) with Ninject, 
-Unit of Work, AutoMapper, SignalR Chat
-=======
-Repository Pattern(T), Dependancy Injection (IoC) with Ninject, 
-Unit of Work, AutoMapper
->>>>>>> origin/master
+Unit of Work, AutoMapper, SignalR Chat and Unit Testing
+
