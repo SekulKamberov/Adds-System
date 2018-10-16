@@ -1,2 +1,2 @@
-text=auto
-*.cs   text diff=csharp
+* linguist-vendored
+*.cs linguist-vendored=false
